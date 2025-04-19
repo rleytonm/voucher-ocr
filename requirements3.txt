@@ -1,0 +1,17 @@
+dateparser==1.2.1
+greenlet==3.2.0
+numpy==2.2.4
+opencv-python==4.11.0.86
+packaging==24.2
+pillow==11.2.1
+psycopg2-binary==2.9.10
+PyMySQL==1.1.1
+pytesseract==0.3.13
+python-dateutil==2.9.0.post0
+python-dotenv==1.1.0
+pytz==2025.2
+regex==2024.11.6
+six==1.17.0
+SQLAlchemy==2.0.40
+typing_extensions==4.13.2
+tzlocal==5.3.1
