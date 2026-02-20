@@ -23,9 +23,13 @@ How It Works
 Tech Stack: Python, OCR engine (e.g., pytesseract), Image processing libraries, Database integration (e.g., SQLite or similar)
 
 Installation
+
 git clone https://github.com/rleytonm/voucher-ocr.git
+
 cd voucher-ocr
+
 pip install -r requirements.txt
+
 Usage
 
 Run the main script to process voucher images:
@@ -57,3 +61,4 @@ Future Improvements
 
 Author:
 Cristian Renato Leyton Medina
+
