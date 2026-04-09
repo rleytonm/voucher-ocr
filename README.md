@@ -20,7 +20,7 @@ How It Works
 - Relevant fields (date, numeric identifiers, amounts) are parsed.
 - The extracted data is validated and inserted into a database.
 
-Tech Stack: Python, OCR engine (e.g., pytesseract), Image processing libraries, Database integration (e.g., SQLite or similar)
+Tech Stack: Python, OCR engine (Pytesseract), Image processing libraries, Database integration (SQLite or similar)
 
 Installation
 
